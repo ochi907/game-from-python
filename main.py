@@ -5,7 +5,10 @@ from imgui.integrations.pygame import PygameRenderer
 import OpenGL.GL as gl
 import os
 
-#ไทยโว้ยยยยยย 
+#ไทยโว้ยยยยยย
+#test
+#ysadadadavkkbdlm,cnklkgfnksdncdb;dfngkcdfbdfgdn
+
 
 def main():
     pygame.init()
@@ -21,6 +24,8 @@ def main():
     io.display_size = size
     
     flags = imgui.WINDOW_MENU_BAR
+
+    #testg neassafafaaaa
 
     # Construct an absolute path to the font file
     # This is more reliable than a relative path
